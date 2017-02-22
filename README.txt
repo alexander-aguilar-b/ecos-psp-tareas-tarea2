@@ -17,7 +17,7 @@ INSTRUCCIONES PARA DESCARGAR EL PROYECTO DESDE GITHUB Y EJECUTARLO LOCALMENTE
 *********************************************************************************************************************************************************		  
 NOTAS:
 *********************************************************************************************************************************************************		  
-Dentro del directorio Tarea02/src/site/resources/PSP02 se encuentran los siguientes directorios
+Dentro del directorio src/site/resources/PSP02 se encuentran los siguientes directorios
 	-- documentos : Contiene diseño conceptual, estandar de codificación, estandar de conteo, PIP y reporte de pruebas
 	-- psp data
 	-- psp forms : Contiene Defect Log, PSP1 Project Plan Summary y Time Log.
